@@ -4,3 +4,5 @@ GenAICourse/GenAI-ML-HW6
 /LLM/*
 /BPerson/*
 GenAICourse/.env
+GenAICourse/HW8Dataset/*
+GenAICourse/sft/*
