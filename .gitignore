@@ -6,3 +6,4 @@ GenAICourse/GenAI-ML-HW6
 GenAICourse/.env
 GenAICourse/HW8Dataset/*
 GenAICourse/sft/*
+*/data/*
